@@ -1,0 +1,18 @@
+#b1{
+background-image:url("bg.jpg");
+background-size:100%;
+}
+h1{
+	color:white;
+}
+iframe{
+	scrolling:no;
+	    padding: 20px 0px 0px 460px;
+		
+		align:middle;
+		frameborder:0;
+		marginheight:50;
+		marginwidth:50;
+		scrolling:no;
+		frameborder:0px;
+}
